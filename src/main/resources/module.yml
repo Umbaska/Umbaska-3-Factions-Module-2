@@ -1,0 +1,7 @@
+name: Factions
+main: uk.co.umbaska.modules.factions.FactionsModule
+base-package: uk.co.umbaska.modules.factions
+loadOn: end
+version: 1
+version-integer: 1
+min-umbaska-build-number: 7
