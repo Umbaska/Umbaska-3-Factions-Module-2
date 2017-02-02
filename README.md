@@ -1,2 +1,2 @@
 # Umbaska-3-Factions-Module
-Because fuck LimeGlass
+A module for Umbaska 3 that supports multiple Factions plugins.
